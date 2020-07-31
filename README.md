@@ -1,2 +1,2 @@
 # class-mon
-An Add-on for Google Sheets
+Class-Mon, an Add-on for Google Sheets
